@@ -1,0 +1,182 @@
+.imageRetargular {
+    margin: auto;
+    width: 355px;
+    height: 220px;
+    margin-top: 30px;
+    position: relative;
+}
+.imageRetargular .anhBia {
+    width: 100%;
+    border-radius: 5px;
+    height: 100%;
+}
+.avtImg {
+    width: 157px;
+    height: 157px;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 135px;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 35%);
+}
+.mt-90 {
+    margin-top: 90px !important;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+input {
+    border: none;
+}
+input:focus {
+    outline: none;
+}
+.nameAccount {
+    font-size: 23px !important;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+span.update {
+    padding: 5px 10px;
+    background-color: #434343;
+    color: #fafafa;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.socialMedia {
+    width: 355px;
+    margin: auto;
+}
+.iconSocialMedia {
+    width: 85px;
+    height: 85px;
+    display: inline-block;
+    background-size: cover;
+    border-radius: 25px;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 35%);
+    margin: 0px 45px 0px 45px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.empty {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff78;
+    border: 1px solid black dotted;
+    border: 1px dashed #979797;
+    border-radius: 25px;
+}
+.iconSocialMedia > a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* social media icon */
+.facebook {
+    background-image: url("../../assets/image/socialMeadia/facebook.png");
+}
+.G {
+    background-image: url("../../assets/image/socialMeadia/G.png");
+}
+.tiktok {
+    background-image: url("../../assets/image/socialMeadia/tiktok.png");
+}
+.gmail {
+    background-image: url("../../assets/image/socialMeadia/gmail.png");
+}
+.instagram {
+    background-image: url("../../assets/image/socialMeadia/instagram.png");
+}
+.lazada {
+    background-image: url("../../assets/image/socialMeadia/lazada.png");
+}
+.Line {
+    background-image: url("../../assets/image/socialMeadia/Line.png");
+}
+.phone {
+    background-image: url("../../assets/image/socialMeadia/phone.png");
+}
+.react {
+    background-image: url("../../assets/image/socialMeadia/react.png");
+}
+.shopee {
+    background-image: url("../../assets/image/socialMeadia/shoppe.png");
+}
+.spotify {
+    background-image: url("../../assets/image/socialMeadia/spotify.png");
+}
+.talk {
+    background-image: url("../../assets/image/socialMeadia/talk.png");
+}
+.telegram {
+    background-image: url("../../assets/image/socialMeadia/telegram.png");
+}
+.tiki {
+    background-image: url("../../assets/image/socialMeadia/tiki.png");
+}
+.twitter {
+    background-image: url("../../assets/image/socialMeadia/twitter.png");
+}
+.whatsapp {
+    background-image: url("../../assets/image/socialMeadia/whatApp.png");
+}
+.youtube {
+    background-image: url("../../assets/image/socialMeadia/youtube.png");
+}
+.zalo {
+    background-image: url("../../assets/image/socialMeadia/zalo.png");
+}
+span.anticon.anticon-edit,
+span.anticon.anticon-plus {
+    position: absolute;
+    top: -7px;
+    right: -7px;
+    font-size: 15px;
+    /* border: 1px solid black; */
+    border-radius: 50%;
+    padding: 5px;
+    background-color: #096dd9;
+    color: white;
+}
+span.anticon.anticon-plus {
+    background-color: #60a0e5 !important;
+}
+span.anticon.anticon-camera {
+    position: absolute;
+    top: 255px;
+    left: 217px;
+    font-size: 17px;
+    color: white;
+    border-radius: 50%;
+    background-color: #3b4754;
+    padding: 7px;
+}
+.border-bottom {
+    border-bottom: 1px solid rgb(141, 141, 141);
+}
+.maxwidth {
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+}
+.editName {
+    width: 350px;
+    margin: auto;
+}
+/* chinh sua cho edit des */
+span.ant-input-affix-wrapper.ant-input-affix-wrapper-lg {
+    border: none;
+    text-align: center;
+    outline: none;
+}
+input:focus {
+    outline: none !important;
+}
+.desAccount {
+    padding: 0px 13px;
+}

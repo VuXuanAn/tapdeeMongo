@@ -1,0 +1,27 @@
+.MyAccount {
+    background-color: #f1f2f6;
+    padding: 50px 0px;
+}
+.optionAccount > ul {
+    list-style: none;
+}
+.optionAccount > ul > li {
+    padding: 20px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.optionAccount > ul > li > i {
+    margin-right: 15px;
+}
+.optionAccount > ul > li:hover {
+    background-color: #dfe4ea;
+}
+.ativeAccount {
+    background-color: #dfe4ea;
+}
+.title img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #000000b3;
+}
